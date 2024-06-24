@@ -1,4 +1,4 @@
-###DN-heatmap
+### DN-heatmap
 
 library(pheatmap)
 aa<-read.table("DN-data.txt",sep = "\t",header = T,row.names = 1,check.names = F)
